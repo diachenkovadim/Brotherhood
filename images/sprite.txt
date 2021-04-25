@@ -1,0 +1,27 @@
+.bg-basket {
+    width: 16px; height: 16px;
+    background: url('css_sprites.png') -79px -10px;
+}
+
+x
+.bg-check_Mark {
+    width: 38px; height: 36px;
+    background: url('css_sprites.png') -151px -10px;
+}
+
+x
+.bg-phone {
+    width: 16px; height: 16px;
+    background: url('css_sprites.png') -115px -10px;
+}
+
+x
+.bg-present {
+    width: 14px; height: 16px;
+    background: url('css_sprites.png') -10px -10px;
+}
+
+x
+.bg-mail {
+    width: 15px; height: 11px;
+    background: url('css_sprites.png') -44px -10px;
